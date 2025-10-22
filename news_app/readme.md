@@ -34,7 +34,7 @@ It fetches the latest top headlines from the **NewsAPI** and displays them in a 
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/nesa-news-app.git
+   git clone https://github.com/bhakti259/news-app.git
    cd nesa-news-app
    ```
 
